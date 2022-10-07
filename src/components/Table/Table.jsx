@@ -55,7 +55,7 @@ export default function BasicTable() {
             <TableHead>
               <TableRow>
                 <TableCell>Product</TableCell>
-                <TableCell align="left"> ID</TableCell>
+                <TableCell align="left">Tracking ID</TableCell>
                 <TableCell align="left">Date</TableCell>
                 <TableCell align="left">Status</TableCell>
                 <TableCell align="left"></TableCell>
