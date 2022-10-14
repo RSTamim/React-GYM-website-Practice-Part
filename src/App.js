@@ -6,7 +6,7 @@ import Sidebar from './components/Sidebar';
 function App() {
   return (
     <div className="App">
-      <div className="AppGlass">
+      <div className="">
         <Sidebar/>
         <MainDash/>
         <RightSide/>
